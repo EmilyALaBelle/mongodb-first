@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/EmilyALaBelle/mongodb-first/issues"
   },
-  "homepage": "https://github.com/EmilyALaBelle/mongodb-first#readme"
+  "homepage": "https://github.com/EmilyALaBelle/mongodb-first#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
 }

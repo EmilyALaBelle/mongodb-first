@@ -1,0 +1,21 @@
+{
+  "name": "mongodb-first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongodb.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilyALaBelle/mongodb-first.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilyALaBelle/mongodb-first/issues"
+  },
+  "homepage": "https://github.com/EmilyALaBelle/mongodb-first#readme"
+}
